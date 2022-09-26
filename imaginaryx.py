@@ -1,0 +1,1 @@
+print ("ini merupakan fitur lain dari user random.")
