@@ -1,6 +1,6 @@
-print ("lagi belajar menggunakan git")
-print ("Program kalkulator")
-input("Masukan nilai =")
+print ("lagi belajar menggunakan percabangan di git")
+print ("membuat suatu program")
+input("coba Masukan nilai =")
 
 
 b= 5
