@@ -1,9 +1,8 @@
-print ("lagi belajar menggunakan git")
-print ("Program kalkulator")
+print ("lagi belajar menggunakan branch di git")
+print ("Program print biasa")
 input("Masukan nilai =")
 
-
-b= 5
-c=1
-a = b + c
-print (a)
+a= 5
+b=1
+c = a + b
+print (c)
